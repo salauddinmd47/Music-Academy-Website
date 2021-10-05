@@ -1,0 +1,14 @@
+.banner{
+    position: relative;
+}
+.offer{
+    position: relative;
+    bottom:50px;
+}
+.main-banner{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.315), rgba(0, 0, 0, 0.308)) ,url(../../images/banner1.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

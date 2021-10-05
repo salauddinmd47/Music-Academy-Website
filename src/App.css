@@ -1,0 +1,50 @@
+/* I used App.css file to give style every components and some css file also declare for some particular component */
+
+ @import url('https://fonts.googleapis.com/css2?family=Birthstone&family=Ephesis&family=Oswald:wght@400;500;600&display=swap');
+.App {
+  text-align: center;
+  background-color: #D1D5DB;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+}
+NavLink{
+  list-style: none;
+  text-decoration: none;
+} 
+li{
+  list-style: none;
+  color:#4d4dce;
+}
+  .component-title{
+    color: orange;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Birthstone', cursive;
+  }
+  .course-details{
+    color: #312E81;
+    font-weight: 700;
+  }
+  .course-title{
+    font-family: 'Oswald', sans-serif;
+  }
+  .academy-name{
+    font-family: 'Ephesis', cursive; 
+    font-weight: bold;
+   
+  }
+  .not-found{
+    background-color: cornsilk;
+    height: 60vh;
+  }
+  @media screen and (max-width:688px){
+    .bannerPhoto{
+      display: none;
+    }
+  }
+
+ 
+
+ 
+
+ 

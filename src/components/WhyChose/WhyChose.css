@@ -1,0 +1,8 @@
+.why-chose{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.315), rgba(0, 0, 0, 0.308)) ,url(../../images/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    width: 100%;
+}
